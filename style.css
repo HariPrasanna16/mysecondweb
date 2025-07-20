@@ -1,0 +1,11 @@
+#id{
+    width: 200px;
+    transition: transform 0.3s ease;;
+}
+#ph:hover{
+    transform: scale(1.1);
+}
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+}
